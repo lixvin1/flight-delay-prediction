@@ -1,1 +1,4 @@
+project/
+.virtual_documents/
+.ipynb_checkpoints/
 lost+found/
